@@ -6,9 +6,9 @@ function HeroSection() {
     <img src={HeroSectionMobileImage} className="lg:hidden"/>
     <img src={HeroSectionImage} className="hidden lg:block col-start-1 col-end-3 row-start-1 row-end-3"/>
     <div className="flex flex-col gap-6 lg:flex-row lg:row-start-3 lg:row-end-4 lg:col-start-1 lg:col-end-3">
-    <h2 className="font-interExtraBold text-6xl">The Bright Future of Web 3.0?</h2>
+    <h2 className="font-interExtraBold text-6xl md:max-w-sm">The Bright Future of Web 3.0?</h2>
     <div className="flex flex-col gap-4 md:gap-6 text-justify">
-    <p className="text-DarkgrayishBlue text-[18px] leading-8">We dive into the next evolution of the web that claims to put the power of the platforms back int the hands of the people. But is it really fulfilling its promise?</p>
+    <p className="text-DarkgrayishBlue text-[18px] leading-8 md:max-w-lg">We dive into the next evolution of the web that claims to put the power of the platforms back int the hands of the people. But is it really fulfilling its promise?</p>
     <button className="p-4 bg-SoftRed text-OffWhite font-interBold max-w-[200px] text-md hover:bg-VeryDarkBlue transition-all ">READ MORE</button>
     </div>
     </div>

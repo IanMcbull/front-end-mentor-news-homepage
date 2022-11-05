@@ -49,7 +49,6 @@ Users should be able to:
 - [TailwindCSS](https://tailwindcss.com/) - CSS framework
 - [Chakra UI](https://chakra-ui.com/) - React Component Library
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
@@ -60,5 +59,5 @@ I've been working on challenges that have designs that will allow me to work on 
 
 - Website - [Ian Mugenya](https://curious-beijinho-840b34.netlify.app/)
 - Frontend Mentor - [@IanMcbull](https://www.frontendmentor.io/profile/IanMcbull)
-- Twitter - [@Mcbool](https://twitter.com/McBooll)
+- Twitter - [@Mcbooll](https://twitter.com/McBooll)
 
