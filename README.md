@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/IanMcbull/front-end-mentor-news-homepage)
-- Live Site URL: [Add live site URL here](https://curious-frangipane-02d009.netlify.app/)
+- Solution URL: [Github URL](https://github.com/IanMcbull/front-end-mentor-news-homepage)
+- Live Site URL: [Live URL](https://curious-frangipane-02d009.netlify.app/)
 
 ## My process
 
